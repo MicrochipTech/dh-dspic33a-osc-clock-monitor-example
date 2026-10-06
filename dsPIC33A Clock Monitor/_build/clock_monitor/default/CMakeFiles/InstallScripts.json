@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

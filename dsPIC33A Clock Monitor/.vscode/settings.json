@@ -1,0 +1,13 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\clock_monitor\\default",
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc-dsc\\v4.00\\bin\\xc-dsc-clangd.exe",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ],
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ]
+}

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\adc.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\adc.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/adc.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/adc.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\clock.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\clock.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/clock.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/clock.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\clock_monitor.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\clock_monitor.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/clock_monitor.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/clock_monitor.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\config_bits.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\config_bits.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/config_bits.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/config_bits.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\demo_app.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\demo_app.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/demo_app.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/demo_app.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\gpio.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\gpio.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/gpio.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/gpio.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\main.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\main.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/main.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/main.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\sccp1.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\sccp1.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/sccp1.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/sccp1.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\sccp2.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\sccp2.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/sccp2.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/sccp2.c.o"
+},
+{
+  "directory": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc-dsc\\v4.00\\bin\\XC40A4~1.EXE -DXPRJ_default=default -D__DEBUG -I\"C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/cmake/clock_monitor/default/../../..\" -x c -fdiagnostics-color=always -g -mcpu=33AK512MPS512 -O0 -msmart-io=1 -Wall -msfr-warn=off -mdfp=C:/Users/c08282/.mchp_packs/Microchip/dsPIC33AK-MP_DFP/1.4.260/xc16 -o CMakeFiles\\clock_monitor_default_default_XC_DSC_compile.dir\\C_\\dsPIC33A_VSCode_Examples\\Clock_Monitor\\dsPIC33A_Clock_Monitor\\tmr1_tick.c.o -c \"C:\\dsPIC33A VSCode Examples\\Clock Monitor\\dsPIC33A Clock Monitor\\tmr1_tick.c\"",
+  "file": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/tmr1_tick.c",
+  "output": "C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir/C_/dsPIC33A_VSCode_Examples/Clock_Monitor/dsPIC33A_Clock_Monitor/tmr1_tick.c.o"
+}
+]

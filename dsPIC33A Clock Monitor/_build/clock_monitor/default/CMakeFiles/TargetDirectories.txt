@@ -1,0 +1,5 @@
+C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_default_XC_DSC_compile.dir
+C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_image_TlAsTVSH.dir
+C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/clock_monitor_default_Bin2Hex.dir
+C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/edit_cache.dir
+C:/dsPIC33A VSCode Examples/Clock Monitor/dsPIC33A Clock Monitor/_build/clock_monitor/default/CMakeFiles/rebuild_cache.dir
